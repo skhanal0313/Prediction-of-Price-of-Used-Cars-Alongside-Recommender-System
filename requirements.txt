@@ -1,0 +1,16 @@
+
+# System Requirements
+OS: Windows/macOS/Linux
+Python: 3.8+
+
+# Recommended IDE
+Jupyter Notebook
+
+# Python Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter
